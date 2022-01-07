@@ -140,3 +140,8 @@ dist
 # OSX
 
 .DS_Store
+layers/.DS_Store
+layers/.DS_Store
+layers/.DS_Store
+yarn.lock
+package-lock.json
